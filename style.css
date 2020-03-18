@@ -13,10 +13,10 @@
 
 .hamBurger{
   height:70%;
-  display:none;
+  display:block;
 }
 #nav{
-  display: block;
+  display: none;
 }
 @media(max-width:450px){
   #nav{
