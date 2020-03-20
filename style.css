@@ -40,6 +40,9 @@
     padding: 15px 0;
     margin-top:10px;
   }
+   .text{
+    text-align: left;
+  }
 }
 @media(max-width:1200px){
   .hamBurger{
@@ -60,9 +63,7 @@
     padding: 15px 0;
     margin-top:10px;
   }
-}
-.text{
-    font-size: larger;
-    font-weight: 400;
-    
+  text{
+    text-align: left;
+  }
 }
